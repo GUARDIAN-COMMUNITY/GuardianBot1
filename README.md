@@ -1,4 +1,4 @@
-[![LEGENDBOT](https://telegra.ph/file/2dfd3e6d9007aabffad92.jpg)](https://github.com/ITS-LEGENDBOT/LEGENDBOT)
+[![GUARDIANBOT](https://telegra.ph/file/2dfd3e6d9007aabffad92.jpg)](https://github.com/GuardianBotXd/GuardianBot)
 
 
 <h1 align="center">
@@ -6,32 +6,32 @@
 </h1>
 
 <h6 align="center">
-  <b>⚡ Presenting a LegendBot. Which Is One Of The Fastest & Smoothest Bot On Telegram Based on Telethon ⚡</b>
+  <b>⚕️ Presenting a GuardianBot. Which Is One Of The Fastest & Smoothest Bot On Telegram Based on Telethon ❤️</b>
 </h6>
 
 
-[![](https://img.shields.io/badge/LegendBot-v2.0-blue)](#)
-[![Stars](https://img.shields.io/github/stars/LEGEND-AI/LEGENDBOT?style=flat-square&color=yellow)](https://github.com/LEGEND-AI/LEGENDBOT/stargazers)
-[![Forks](https://img.shields.io/github/forks/LEGEND-AI/LEGENDBOT?style=flat-square&color=orange)](https://github.com/LEGEND-AI/LEGENDBOT/fork)
-[![Size](https://img.shields.io/github/repo-size/LEGEND-AI/LEGENDBOT?style=flat-square&color=green)](https://github.com/LEGEND-AI/LEGENDBOT/)   
+[![](https://img.shields.io/badge/GuardianBot-v1.0-blue)](#)
+[![Stars](https://img.shields.io/github/stars/GUARDIAN-COMMUNITY/GUARDIANBOTstyle=flat-square&color=yellow)](https://github.com/GUARDIAN-COMMUNITY/GUARDIANBOT/starazers)
+[![Forks](https://img.shields.io/github/fork/GUARDIAN-COMMUNITY/GUARDIANBOT?style=flat-square&color=orange)](https://github.com/GUARDIAN-COMMUNITY/GUARDIANBOT/fork)
+[![Size](https://img.shields.io/github/repo-size/GUARDIAN-COMMUNITY/GUARDIANBOT?style=flat-square&color=green)](https://github.com/GUARDIAN-COMMUNITY/GUARDIANBOT/)   
 [![Python](https://img.shields.io/badge/Python-v3.10.2-blue)](https://www.python.org/)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/LEGEND-AI/LEGENDBOT/graphs/commit-activity)   
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/LEGEND-AI/LEGENDBOT)
-[![Contributors](https://img.shields.io/github/contributors/LEGEND-AI/LEGENDBOT?style=flat-square&color=green)](https://github.com/LEGEND-AI/LEGENDBOT/graphs/contributors)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/GUARDIAN-COMMUNITY/GUARDIANBOT/graphs/commit-activity)   
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/GUARDIAN-COMMUNITY/GUARDIANBOT)
+[![Contributors](https://img.shields.io/github/contributors/GUARDIAN-COMMUNITY/GUARDIANBOT?style=flat-square&color=green)](https://github.com/GUARDIAN-COMMUNITY/GUARDIANBOT/graphs/contributors)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
-[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/LEGEND-AI/LEGENDBOT/blob/main/LICENSE)   
+[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/GUARDIAN-COMMUNITY/GUARDIANBOT/blob/main/LICENSE)   
 
 ------
 
 ## Status Of Bot 
 <p align="left">
-    <a href="https://github.com/LEGEND-AI/LEGENDBOT/network/members"><img src="https://img.shields.io/github/forks/LEGEND-AI/LEGENDBOT?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/LEGEND-AI/LEGENDBOT/stargazers"><img src="https://img.shields.io/github/stars/LEGEND-AI/LEGENDBOT?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/LEGEND-AI/LEGENDBOT"></a><p align="left"><a href="https://github.com/LEGEND-AI/LEGENDBOT?"></a>
+    <a href="https://github.com/GUARDIAN-COMMUNITY/GUARDIANBOT/network/members"><img src="https://img.shields.io/github/forks/GUARDIAN-COMMUNITY/GUARDIANBOT?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/GUARDIAN-COMMUNITY/GUARDIANBOT/stargazers"><img src="https://img.shields.io/github/stars/GUARDIAN-COMMUNITY/GUARDIANBOT?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/GUARDIAN-COMMUNITY/GUARDIANBOT"></a><p align="left"><a href="https://github.com/GUARDIAN-COMMUNITY/GUARDIABOT?"></a>
 
 ------
 
 ## Telegram 🏪
-- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/Legend_K_Userbot)
-- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/Official_K_LegendBot)
+- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/DinoGuardian_Support/)
+- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/GuardianBot_AI)
 
 ------
 
