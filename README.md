@@ -1,4 +1,4 @@
-[![GUARDIANBOT](https://telegra.ph/file/2dfd3e6d9007aabffad92.jpg)](https://github.com/GuardianBotXd/GuardianBot)
+[![GUARDIANBOT](https://telegra.ph/file/992bb3e9e8863f6492b94.jpg)](https://github.com/GuardianBotXd/GuardianBot)
 
 
 <h1 align="center">
