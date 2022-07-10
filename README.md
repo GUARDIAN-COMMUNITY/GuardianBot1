@@ -2,7 +2,7 @@
 
 
 <h1 align="center">
-<b> 『𝗚𝗨𝗔𝗥𝗗𝗜𝗔𝗡𝗕𝗢𝗧』 </b>
+<b> 🚩𝗚𝗨𝗔𝗥𝗗𝗜𝗔𝗡𝗕𝗢𝗧 </b>
 </h1>
 
 <h6 align="center">
