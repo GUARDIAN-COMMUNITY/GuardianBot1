@@ -74,17 +74,6 @@
 - Send The Code To @Legend_SessionGeneratorBot with Each Space
 - Check SAVED MESSAGE
 
-### Terminal
-- Open the terminal.
-- Paste this code.
-
-`pkg install python wget -y && pip install telethon && wget https://raw.githubusercontent.com/ITS-LEGENDBOT/LEGENDBOT/master/LegendString.py && python3 LegendString.py`
-- Fill API ID, API HASH, Phone number (with country code).
-- Paste the OTP received on Telegram.
-- If You have Enabled 2-Step Verification then fill your password.
-- Note that Termux Doesn't show passwords when filled. Just paste your password and hit enter.
-- Your LegendBot Session Will be saved in your Telegram Saved Message.
-
 ## Self Host VPS
 
 - [![YouTube Video Views](https://img.shields.io/youtube/views/DheBIuT1Fmg?label=Tutorial+•+SelfHost+•&style=social)](https://youtu.be/DheBIuT1Fmg)
